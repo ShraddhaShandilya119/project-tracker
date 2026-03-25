@@ -17,7 +17,8 @@ A feature-rich Project Tracker application with multiple views (Kanban, List, Ti
 - Vite  
 
 ## 🌐 Live Demo
-👉 Add your deployed link here  
+👉  https://project-tracker-orpin.vercel.app
+  
 
 ## 📁 Project Structure
 src/
@@ -25,5 +26,5 @@ src/
  ├── store/
  ├── data/
 
-## 🙋‍♀️ Author
+##  Author
 Shraddha
